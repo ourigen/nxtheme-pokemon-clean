@@ -1,10 +1,10 @@
-# NXTheme Games Room x Pokemon
+# NXThemes
 
 ### Installation
 
 Place `themes/` at the root of your SD Card, or its content in the `themes/` folder.
 
-### Preview
+### Game Room x Pokemon Preview
 
 ![](previews/lock.jpg)
 
